@@ -1,0 +1,3 @@
+import Graph
+
+a = Graph()

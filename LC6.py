@@ -1,0 +1,2 @@
+def zigzag(text, n):
+    
